@@ -1,0 +1,1 @@
+ /Volumes/2\ TB/Personal/Code/test/ecom/.dart_tool/flutter_build/d23a4cb6dfbae9e2716213709563e61f/native_assets.yaml: 
